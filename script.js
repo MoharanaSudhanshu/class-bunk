@@ -2,16 +2,7 @@
    FIREBASE CONFIGURATION
 ========================================================= */
 
-const firebaseConfig = {
-    apiKey: "AIzaSyAwGBrUXaU93GSXzq5P8G5SdyeAPxYHxiw",
-    authDomain: "class-bunk-6fbe3.firebaseapp.com",
-    databaseURL: "https://class-bunk-6fbe3-default-rtdb.firebaseio.com",
-    projectId: "class-bunk-6fbe3",
-    storageBucket: "class-bunk-6fbe3.firebasestorage.app",
-    messagingSenderId: "750517348285",
-    appId: "1:750517348285:web:955cfa1e35b112015f14d4",
-    measurementId: "G-JWQCZ3DEGC"
-};
+
 
 
 /* =========================================================
